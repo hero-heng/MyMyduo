@@ -1,5 +1,5 @@
 # Requirements
-- >= c++11
+-  >= c++11
 - Linux OS
 
 # Compile
